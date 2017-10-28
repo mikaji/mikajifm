@@ -1,6 +1,6 @@
 actors:
   mikaji:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/mikaji.png
     name: mikaji
     url: https://twitter.com/mikaji_jp
   bob:
