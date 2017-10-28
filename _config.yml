@@ -1,15 +1,15 @@
 actors:
-  alice:
+  mikaji:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    name: mikaji
+    url: https://twitter.com/mikaji_jp
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
+author: mikaji
+description: 東京のしがないサラリーマンの暇つぶし
+description_long: TBD
 email: mikaji.tensai@gmail.com
 exclude:
   - Gemfile
